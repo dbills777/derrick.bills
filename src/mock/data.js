@@ -38,12 +38,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'brbaimage.png',
+    title: 'Breaking Bad API Front End',
+    info: 'I created this application to view data from the Breaking Bad API using React.js',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://bills3790p1.netlify.app/characters',
+    repo: 'https://github.com/dbills777/crud-app-front-end', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
