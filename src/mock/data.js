@@ -19,8 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Hello! I am Derrick Bills. I am seeking a postion as a Front end Web Developer where I can actively contribute to a team of designers and engineers in createing high quality front end applications and websites.',
-  paragraphTwo: '',
+    'Hello! I am Derrick Bills. I am seeking a postion as a Front end Web Developer where I can actively continue my learning to build exciting products.',
+  paragraphTwo: `I Recently graduated form Utah Valley University with a Bachelors Degree in Web Develop and Design. I am very excited to expand my skills and knowledge.`,
   paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
