@@ -29,30 +29,33 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'brbaimage.png',
-    title: 'Breaking Bad API Front End',
-    info: 'I created this application to view data from the Breaking Bad API using React.js',
-    info2: '',
+    title: 'MERN Front End',
+    info: `I created this application to view data from a MongoDB database I seeded with data from the Breaking Bad API`,
+    info2: `Key Concepts: Context Api, Functional Components, React Hooks based state management. React Router, Materail UI, Formik, yup`,
     url: 'https://bills3790p1.netlify.app/characters',
     repo: 'https://github.com/dbills777/crud-app-front-end', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'hackerNews.png',
+    title: 'Svelte HackerNews Clone Promise Practice API',
+    info: `This application was my first experince with Svelte, I really enjoyed learning and working with svelte. The main goal and focus of cloning HackerNews was to get a better understanding of Promises and working with API's
+    that may not have the best structure for accessing data. Making multiple requests to various endpoints in order to recreate HackerNews was very helpful in gaining experience with Async Await and Promises. `,
+    info2: `Key Concepts: Pormises, Async Await, fetch API, `,
+
+    url: 'https://adoring-saha-6f7c34.netlify.app/',
+    repo: 'https://github.com/dbills777/hacker-news-clone', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'hackerNews.png',
+    title: 'Svelte HackerNews Clone Promise Practice API',
+    info: `This application was my first experince with Svelte, I really enjoyed learning and working with svelte. The main goal and focus of cloning HackerNews was to get a better understanding of Promises and working with API's
+    that may not have the best structure for accessing data. Making multiple requests to various endpoints in order to recreate HackerNews was very helpful in gaining experience with Async Await and Promises. `,
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://adoring-saha-6f7c34.netlify.app/',
+    repo: 'https://github.com/dbills777/hacker-news-clone', // if no repo, the button will not show up
   },
 ];
 
