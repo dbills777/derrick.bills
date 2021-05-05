@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
     'Hello! I am Derrick Bills. I am seeking a postion as a Front end Web Developer where I can actively continue my learning to build exciting products.',
-  paragraphTwo: `I Recently graduated form Utah Valley University with a Bachelors Degree in Web Develop and Design. I am very excited to expand my skills and knowledge.`,
+  paragraphTwo: ``,
   paragraphThree: '',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
@@ -30,7 +30,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'brbaimage.png',
-    title: 'MERN Front End',
+    title: 'MERN APP',
     info: `I created this application to view data from a MongoDB database I seeded with data from the Breaking Bad API`,
     info2: `Key Concepts: Context Api, Functional Components, React Hooks based state management. React Router, Materail UI, Formik, yup`,
     url: 'https://bills3790p1.netlify.app/characters',
