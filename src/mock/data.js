@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Derrick Bills',
-  subtitle: 'Full Stack Web Developer',
+  subtitle: 'Front End Developer',
   cta: '',
 };
 
@@ -31,15 +31,17 @@ export const projectsData = [
     id: nanoid(),
     img: 'brbaimage.png',
     title: 'MERN APP',
-    info: `I created this application to view data from a MongoDB database I seeded with data from the Breaking Bad API`,
+    subTitle: `Key Concepts:`,
+    info: `This is a basic CRUD application`,
     info2: `Key Concepts: Context Api, Functional Components, React Hooks based state management. React Router, Materail UI, Formik, yup`,
-    url: 'https://bills3790p1.netlify.app/characters',
+    url: 'https://bills-crud-app-frontend.netlify.app/characters',
     repo: 'https://github.com/dbills777/crud-app-front-end', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'hackerNews.png',
     title: 'Svelte HackerNews Clone Promise Practice API',
+    subTitle: `Key Concepts:`,
     info: `This application was my first experince with Svelte, I really enjoyed learning and working with svelte. The main goal and focus of cloning HackerNews was to get a better understanding of Promises and working with API's
     that may not have the best structure for accessing data. Making multiple requests to various endpoints in order to recreate HackerNews was very helpful in gaining experience with Async Await and Promises. `,
     info2: `Key Concepts: Pormises, Async Await, fetch API, `,
@@ -51,6 +53,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'hackerNews.png',
     title: 'Svelte HackerNews Clone Promise Practice API',
+    subTitle: `Key Concepts:`,
     info: `This application was my first experince with Svelte, I really enjoyed learning and working with svelte. The main goal and focus of cloning HackerNews was to get a better understanding of Promises and working with API's
     that may not have the best structure for accessing data. Making multiple requests to various endpoints in order to recreate HackerNews was very helpful in gaining experience with Async Await and Promises. `,
     info2: '',
