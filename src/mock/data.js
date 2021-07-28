@@ -32,10 +32,12 @@ export const projectsData = [
     img: 'brbaimage.png',
     title: 'MERN APP',
     subTitle: `Key Concepts:`,
-    info: `This is a basic CRUD application`,
-    info2: `Key Concepts: Context Api, Functional Components, React Hooks based state management. React Router, Materail UI, Formik, yup`,
+    info: `Full Stack CRUD application using Breaking Bad Show Data`,
+    info2: `Key Concepts: Context Api, Functional Components, React Hooks based state management. React Router, Materail UI, Formik, yup, Auth0`,
+    info3: `Version 1 is the inital setup and display of the API Data. Version 2 is furthur iteration, specifically following MVC patterns and seeding the database with the data from the API. This version is also utilizing Docker.`,
     url: 'https://bills-crud-app-frontend.netlify.app/characters',
     repo: 'https://github.com/dbills777/crud-app-front-end', // if no repo, the button will not show up
+    repo2: 'https://github.com/dbills777/CrudAppClientNodeGraphQL', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
