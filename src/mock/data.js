@@ -22,6 +22,7 @@ export const aboutData = {
   paragraphTwo: `My current focus and interest is to be part of a team that is in need of a Developer that loves to contribute whenever a need arises. Implementing Front End Libraries/Frameworks to build products that look great and function as a solution for the problem they are created to solve. Having the ability to be challenged on a regular basis with new opportunities for learning is exciting to me.`,
   paragraphThree: `In addtion to improving my skills in creating products and user interfaces that people love to use, I also like working on the server side, Currently, NodeJS (Express) is my strongest server tool to use. I look forward to continuously adding tools to my skillset as I progress`,
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  // resume: 'resume', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
