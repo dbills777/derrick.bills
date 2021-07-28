@@ -51,14 +51,13 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'hackerNews.png',
-    title: 'Svelte HackerNews Clone Promise Practice API',
+    img: 'recipes.png',
+    title: 'Recipe App. Node Javascript with Ejs Templating engine',
     subTitle: `Key Concepts:`,
-    info: `This application was my first experince with Svelte, I really enjoyed learning and working with svelte. The main goal and focus of cloning HackerNews was to get a better understanding of Promises and working with API's
-    that may not have the best structure for accessing data. Making multiple requests to various endpoints in order to recreate HackerNews was very helpful in gaining experience with Async Await and Promises. `,
+    info: `This was my first exposure to a full Node application utilizing a templating engine (EJS). This applicaion was fun to work on. It provided several opporunities to learn and become a better developer through solving problems as they arose. The Express server is used to connect to MongoDb entire application is hosted on Heroku`,
     info2: '',
-    url: 'https://adoring-saha-6f7c34.netlify.app/',
-    repo: 'https://github.com/dbills777/hacker-news-clone', // if no repo, the button will not show up
+    url: 'https://mighty-crag-66385.herokuapp.com/',
+    repo: 'https://github.com/dbills777/final3760', // if no repo, the button will not show up
   },
 ];
 
