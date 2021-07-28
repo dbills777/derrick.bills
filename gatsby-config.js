@@ -17,6 +17,10 @@ module.exports = {
       options: {
         name: `pages`,
         path: `${__dirname}/src/pages/`,
+        options: {
+          name: `pdf`,
+          path: `${__dirname}/src/pdf/`,
+        },
       },
     },
     {
