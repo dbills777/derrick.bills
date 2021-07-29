@@ -70,7 +70,7 @@ const Projects = () => {
                           className="cta-btn text-color-main"
                           href={repo}
                         >
-                          Version 1
+                          Source Code
                         </a>
                       )}
                       {repo2 && (
@@ -80,7 +80,7 @@ const Projects = () => {
                           className="cta-btn text-color-main"
                           href={repo2}
                         >
-                          Version 2
+                          Source Code 2
                         </a>
                       )}
                     </div>
