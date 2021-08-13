@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: `Hello! I'm Derrick`,
-  paragraphTwo: `I am interested in joining a team that is in need of a Front End Developer who loves to create products to specification, while at the same time searching for opportunities for improvement. Utilizing Front End Libraries/Frameworks to build products that look great and function as a solution for the problem they are created to solve is what drives me. `,
+  paragraphTwo: `I am interested in joining a team that is in need of a Front End Developer who loves creating User Interfaces from wonderful designs! I continuosly seek out opportunities for learning and improving my Development and Design Skills.  Utilizing Front End Libraries/Frameworks to build products that look great and function as a solution for the problem they are created to solve is what drives me. `,
   paragraphThree: `In addition to creating products and user interfaces that people love to use, I also like working on the server side, Currently, NodeJS (Express) is my strongest server tool to use. I look forward to continuously adding tools to my skillset as I progress.`,
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
   // resume: 'resume', // if no resume, the  button will not show up
@@ -32,9 +32,9 @@ export const projectsData = [
     img: 'brbaimage.png',
     title: 'MERN APP',
     subTitle: `Key Concepts:`,
-    info: `Full Stack CRUD application using Breaking Bad Show Data`,
+    info: `Full Stack CRUD application using Breaking Bad Data`,
     info2: `Key Concepts: Context Api, Functional Components, React Hooks based state management. React Router, Materail UI, Formik, yup, Auth0`,
-    info3: `Version 1 is the inital setup and display of the API Data. Version 2 is furthur iteration, specifically following MVC patterns and seeding the database with the data from the API, and utilizing Docker.`,
+    info3: `Version 1 is the inital setup and display of the API Data. Version 2 is continued iteration, specifically following MVC patterns and seeding the database with the data from the API, and utilizing Docker.`,
     url: 'https://bills-crud-app-frontend.netlify.app/characters',
     repo: 'https://github.com/dbills777/crud-app-front-end', // if no repo, the button will not show up
     repo2: 'https://github.com/dbills777/CrudAppClientNodeGraphQL', // if no repo, the button will not show up
