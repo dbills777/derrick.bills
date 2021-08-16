@@ -59,6 +59,14 @@ const About = () => {
                     >
                       Resume
                     </a>
+                    <a
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="cta-btn cta-btn--resume"
+                      href="https://github.com/dbills777"
+                    >
+                      GitHub
+                    </a>
                   </span>
                 )}
               </div>

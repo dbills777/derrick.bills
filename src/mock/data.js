@@ -18,11 +18,12 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: `Hello! I'm Derrick`,
+  paragraphOne: `Hello! I'm Derrick, My ability & and willingness to quickly learn and implement solutions to development challenges is `,
   paragraphTwo: `I am interested in joining a team that is in need of a Front End Developer who loves creating User Interfaces from wonderful designs! I continuosly seek out opportunities for learning and improving my Development and Design Skills.  Utilizing Front End Libraries/Frameworks to build products that look great and function as a solution for the problem they are created to solve is what drives me. `,
   paragraphThree: `In addition to creating products and user interfaces that people love to use, I also like working on the server side, Currently, NodeJS (Express) is my strongest server tool to use. I look forward to continuously adding tools to my skillset as I progress.`,
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
   // resume: 'resume', // if no resume, the  button will not show up
+  // about.jsx imports resume and uses that over this resume import File from '../../pdf/resume.pdf';
 };
 
 // PROJECTS DATA
