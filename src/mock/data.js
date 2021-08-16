@@ -18,8 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: `Hello! I'm Derrick, My ability & and willingness to quickly learn and implement solutions to development challenges is `,
-  paragraphTwo: `I am interested in joining a team that is in need of a Front End Developer who loves creating User Interfaces from wonderful designs! I continuosly seek out opportunities for learning and improving my Development and Design Skills.  Utilizing Front End Libraries/Frameworks to build products that look great and function as a solution for the problem they are created to solve is what drives me. `,
+  paragraphOne: `In 2018, I decided to return to school and earn a degree in Web Development. My goal in doing so was to prepare myself to become a valuable member to a team as efficiently as possible. Over the past three years preparing to enter a new and exciting career has taught me how to learn, learn quickly, and to always persist in seeking solutions to challenges as they arise. `,
+  paragraphTwo: `I am excited to bring a positive attitude towards goals and desired outcomes, by focusing on solutions to challenges that arise along the way. Finding opportunities to create products to specification by seeking solutions and methods that help push the overall goals and objectives forward is my approach to development.`,
   paragraphThree: `In addition to creating products and user interfaces that people love to use, I also like working on the server side, Currently, NodeJS (Express) is my strongest server tool to use. I look forward to continuously adding tools to my skillset as I progress.`,
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
   // resume: 'resume', // if no resume, the  button will not show up
