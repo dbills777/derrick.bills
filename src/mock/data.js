@@ -57,10 +57,10 @@ export const projectsData = [
     img: 'recipes.png',
     title: 'Recipe App. Node Javascript with Ejs Templating engine',
     subTitle: `Key Concepts:`,
-    info: `This was my first exposure to a full Node application utilizing a templating engine (EJS). This applicaion was fun to work on. It provided several opporunities to learn and become a better developer through solving problems as they arose. The Express server is used to connect to MongoDb entire application is hosted on Heroku`,
+    info: `This project was to help Utah Valley Universities Engineering Lab secure accredidation. I Shot, and assembled The complete tour, used to showcase the lab through a VR tour`,
     info2: '',
-    url: 'https://mighty-crag-66385.herokuapp.com/',
-    repo: 'https://github.com/dbills777/final3760', // if no repo, the button will not show up
+    url: 'https://laughing-sammet-830357.netlify.app/',
+    repo: 'https://github.com/dbills777/CS515_VR_Tour', // if no repo, the button will not show up
   },
 ];
 
