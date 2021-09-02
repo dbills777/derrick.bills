@@ -54,10 +54,10 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'recipes.png',
-    title: 'Recipe App. Node Javascript with Ejs Templating engine',
+    img: 'lab.png',
+    title: 'Utah Valley Engineering Tour',
     subTitle: `Key Concepts:`,
-    info: `This project was to help Utah Valley Universities Engineering Lab secure accredidation. I Shot, and assembled The complete tour, used to showcase the lab through a VR tour`,
+    info: `This project was to help Utah Valley Universities Engineering Lab secure accredidation. I Shot, and assembled The complete tour, used to showcase the lab through a VR tour. GitHub repo includes link to UVU's live deploy of the tour.`,
     info2: '',
     url: 'https://laughing-sammet-830357.netlify.app/',
     repo: 'https://github.com/dbills777/CS515_VR_Tour', // if no repo, the button will not show up
