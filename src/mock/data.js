@@ -35,8 +35,8 @@ export const projectsData = [
     subTitle: `Recharts exploration:`,
     info: `I started this project to implement a dashbord that could also diplay data in a chart form. I found a library called ReCharts and implemented one of their examples as the chart display for this website.`,
     info2: '',
-    url: 'https://laughing-sammet-830357.netlify.app/',
-    repo: 'https://github.com/dbills777/CS515_VR_Tour', // if no repo, the button will not show up
+    url: 'https://stoic-bassi-8d9376.netlify.app/',
+    repo: 'https://github.com/dbills777/Dashboard', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
