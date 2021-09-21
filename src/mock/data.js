@@ -30,6 +30,16 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'dashboard.png',
+    title: 'React Dashboard with Charts',
+    subTitle: `Recharts exploration:`,
+    info: `I started this project to implement a dashbord that could also diplay data in a chart form. I found a library called ReCharts and implemented one of their examples as the chart display for this website.`,
+    info2: '',
+    url: 'https://laughing-sammet-830357.netlify.app/',
+    repo: 'https://github.com/dbills777/CS515_VR_Tour', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'brbaimage.png',
     title: 'MERN APP',
     subTitle: `Key Concepts:`,
@@ -58,16 +68,6 @@ export const projectsData = [
     title: 'Utah Valley Engineering Tour',
     subTitle: `Key Concepts:`,
     info: `This project was to help  the Utah Valley University Engineering Lab secure accredidation. I Shot, and assembled The complete tour, used to showcase the lab through a VR tour. GitHub repo includes link to UVU's live deploy of the tour.`,
-    info2: '',
-    url: 'https://laughing-sammet-830357.netlify.app/',
-    repo: 'https://github.com/dbills777/CS515_VR_Tour', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'lab.png',
-    title: 'React Dashboard with Charts',
-    subTitle: `Recharts exploration:`,
-    info: `I started this project to implement a dashbord that could also diplay data in a chart form. I found a library called ReCharts and implemented one of their examples as the chart display for this website.`,
     info2: '',
     url: 'https://laughing-sammet-830357.netlify.app/',
     repo: 'https://github.com/dbills777/CS515_VR_Tour', // if no repo, the button will not show up
