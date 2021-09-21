@@ -68,7 +68,7 @@ export const projectsData = [
     title: 'Utah Valley Engineering Tour',
     subTitle: `Key Concepts:`,
     info: `This project was to help  the Utah Valley University Engineering Lab secure accredidation. I Shot, and assembled The complete tour, used to showcase the lab through a VR tour. GitHub repo includes link to UVU's live deploy of the tour.`,
-    info2: '',
+    info2: `My contribution is currently active on UVU's website. The link to their live version is found in my gitHub repo Readme file`,
     url: 'https://laughing-sammet-830357.netlify.app/',
     repo: 'https://github.com/dbills777/CS515_VR_Tour', // if no repo, the button will not show up
   },
