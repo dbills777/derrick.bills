@@ -32,7 +32,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'dashboard.png',
     title: 'React Dashboard with Charts',
-    subTitle: `Recharts exploration:`,
+    subTitle: `Recharts Exploration:`,
     info: `I started this project to implement a dashbord that could also diplay data in a chart form. I found a library called ReCharts and implemented one of their examples as the chart display for this website.`,
     info2: '',
     url: 'https://stoic-bassi-8d9376.netlify.app/',
