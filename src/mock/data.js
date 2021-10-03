@@ -33,7 +33,7 @@ export const projectsData = [
     img: 'dashboard.png',
     title: 'React Dashboard with Charts',
     subTitle: `Recharts Exploration:`,
-    info: `I started this project to implement a dashbord that could also diplay data as a chart. I found a library called ReCharts to help accomplish this goal, my project uses one of their examples as the chart display for this website.`,
+    info: `I started this project to implement a dashbord that could also display data as a chart. I found a library called ReCharts to help accomplish this goal, my project uses one of their examples as the chart display for this website.`,
     info2: '',
     url: 'https://stoic-bassi-8d9376.netlify.app/',
     repo: 'https://github.com/dbills777/Dashboard', // if no repo, the button will not show up
